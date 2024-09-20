@@ -1,0 +1,6 @@
+db:
+  host:127.0.0.1
+  prod:3306
+  user:root
+  passowrd:123456
+  databse:test_sql

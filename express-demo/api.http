@@ -1,0 +1,18 @@
+# post 编辑
+# POST http://127.0.0.1:3000/user/changeName HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "name":"张涵",
+#     "id":1
+# }
+
+# 插入
+POST http://127.0.0.1:3000/user/add HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"小阿涵",
+    "age":26,
+    "address":"蚂蚁集团"
+}

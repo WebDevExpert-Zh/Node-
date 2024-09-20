@@ -1,0 +1,17 @@
+{
+  "name": "zh",
+  "version": "1.0.0",
+  "description": "zhzh",
+  "main": "index.js",
+  "type": "module",
+  "browser": "",
+  "scripts": {
+    "test": "echo \"1111111\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "homepage": "github.com/zhanghan",
+  "author": "zhanghan",
+  "license": "ISC"
+}
